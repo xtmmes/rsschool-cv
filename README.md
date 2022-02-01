@@ -1,1 +1,1 @@
-https://xtmmes.github.io/rsschool-cv/cv
+https://xtmmes.github.io/rsschool-cv/
